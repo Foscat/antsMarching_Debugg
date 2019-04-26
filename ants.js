@@ -1,4 +1,4 @@
-console.log("connected");
+console.log("//////////////////////// Start Ant Marching ////////////////////////");
 
 var littleOne = [];
 var howTheyMarch = ["one by one", "two by two", "three by three", "four by four", "five by five", "six by six", "seven by seven", "eight by eight", "nine by nine", "ten by ten"];
